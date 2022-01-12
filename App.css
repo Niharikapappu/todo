@@ -1,0 +1,9 @@
+.app {
+  background-color: #fafa;
+  height: 1000vh;
+}
+
+.app_header {
+  background-color: aqua;
+  border-bottom: 1px solid pink;
+}
